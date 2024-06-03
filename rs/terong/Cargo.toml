@@ -16,7 +16,7 @@ macross = { git = "https://github.com/kafji/macross", features = ["typing"] }
 paste = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 strum = { version = "0.26", features = ["derive"] }
-tokio = { version = "1.37", features = ["full"] }
+tokio = { version = "1.38", features = ["full"] }
 tokio-native-tls = "0.3"
 toml = "0.8"
 tracing = "0.1"
